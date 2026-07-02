@@ -1,3 +1,3 @@
-# ¡Hola! Soy José María Cauich
+I'm José María Cauich
 
-Soy **Ingeniero en Sistemas Computacionales** enfocado en el desarrollo Backend. Me considero un desarrollador autodidacta en constante aprendizaje, listo para integrarme a equipos dinámicos, adaptarme rápido a nuevos entornos y aportar soluciones eficientes.
+I am a **Computer Systems Engineer** focused on Backend Development. I consider myself a self-taught developer who is constantly learning, ready to join dynamic teams, adapt quickly to new environments, and deliver efficient solutions.
